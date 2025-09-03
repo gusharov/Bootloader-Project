@@ -16,7 +16,7 @@ This project demonstrates a minimal STM32 bootloader that can hand control to an
 ## Hardware
 - STM32 microcontroller (tested on STM32F4)  
 - Onboard LED for bootloader status indication
-- 
+  
 ---
 
 ## Next Steps / Stretch Goals
